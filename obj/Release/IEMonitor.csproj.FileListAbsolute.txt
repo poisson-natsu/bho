@@ -1,0 +1,15 @@
+C:\Users\Mer\Desktop\ClearCard\bin\Release\ClearCard.dll
+C:\Users\Mer\Desktop\ClearCard\bin\Release\ClearCard.pdb
+C:\Users\Mer\Desktop\ClearCard\bin\Release\Newtonsoft.Json.dll
+C:\Users\Mer\Desktop\ClearCard\obj\Release\Interop.SHDocVw.dll
+C:\Users\Mer\Desktop\ClearCard\obj\Release\IEMonitor.csproj.ResolveComReference.cache
+C:\Users\Mer\Desktop\ClearCard\obj\Release\ClearCard.dll
+C:\Users\Mer\Desktop\ClearCard\obj\Release\ClearCard.pdb
+C:\Users\Mer\Desktop\Heng\bin\Release\ClearCard.dll
+C:\Users\Mer\Desktop\Heng\bin\Release\ClearCard.pdb
+C:\Users\Mer\Desktop\Heng\bin\Release\Newtonsoft.Json.dll
+C:\Users\Mer\Desktop\Heng\obj\Release\IEMonitor.csprojResolveAssemblyReference.cache
+C:\Users\Mer\Desktop\Heng\obj\Release\Interop.SHDocVw.dll
+C:\Users\Mer\Desktop\Heng\obj\Release\IEMonitor.csproj.ResolveComReference.cache
+C:\Users\Mer\Desktop\Heng\obj\Release\ClearCard.dll
+C:\Users\Mer\Desktop\Heng\obj\Release\ClearCard.pdb
